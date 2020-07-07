@@ -35,3 +35,7 @@ PRs require at least one reviewer and may or may not require checks before mergi
 ### Issues
 
 Issues can be named and handled any way you want, just make sure you label them accordingly so the can be easily filtered. If an issue is blocked by another issue or PR, make sure you label it **blocked** and reference the problem using `#` in the description. Link any open PRs that resolve the issue.
+
+### Milestones
+
+We will be using milestones to keep track of our progress. Milestones for initial development will be labeled using only major version (ex. _1.x_) and releases will be labeled using conventional versioning specification (ex. _1.0.0_). Here is a guide for [SemVer](https://semver.org/).
