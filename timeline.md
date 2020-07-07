@@ -6,7 +6,7 @@ Main timeline for the web application. This is a general guide. It can change as
 
 - [ ] Create README.md for front and back end.
   > these READMEs will go into further detail regarding the frontend/backend specifics
-- [ ] QRI-Backend
+- [ ] QRI-Back
   - [ ] database schema
   - [ ] handlers
   - [ ] router
