@@ -8,11 +8,10 @@ All commits must be made to a non-protected branch and submitted via a pull requ
 
 > branches should be all lower case and have NO whitespace (use `-` instead of spaces)
 
-```markdown
-- docs/\*
-- feature/\*
-- hotfix/\*
-```
+- docs/*
+- feature/*
+- hotfix/*
+
 
 Both [QRI-back](https://github.com/TwoAs/QRI-Back) and [QRI-front](https://github.com/TwoAs/QRI-Front) will have two protected branches. The first being `master` which will be used for production and will match the latest stable build. The second being `develop` which we will use when developing our code (this makes things easier for certain workflows).
 
@@ -23,13 +22,11 @@ Commits should be limited to only 40 characters in the summary. Any additional i
 
 > commit messages are not limited to just these, just make sure the first word of your commit message is capitalized
 
-```markdown
 - Add
 - Delete
 - Update
 - Rename
 - Fix
-```
 
 ### Pull Requests
 
