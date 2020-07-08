@@ -11,7 +11,7 @@ Here is a list of items that need to be documented:
 - [x] Project Timeline
   > timeline should be its own file so we can refer to it when making Github projects
 - [ ] QRI-Back
-  - [ ] database schema
+  - [x] database schema
   - [ ] handlers
   - [ ] router
 - [ ] QRI-Front
