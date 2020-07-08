@@ -12,24 +12,9 @@
 ### Tasks
 
 - Review task list.
-- Do needfinding research.
+- Do need-finding research.
 - Create schema for database.
 - Paper prototype UX/UI.
 - Research which database service would be best fit.
 - Compare different languages to determine which would be the best fit.
 - Implement DB with basic UI with a focus on schema correctness.
-
-### Timeline
-
-1. Needfinding.
-2. Schema with visual.
-3. Research best fit DB service.
-4. Research best fit language.
-
-### Setup Project
-
-#### Start Date:
-
-### Setup Testing
-
-#### Start Date:
