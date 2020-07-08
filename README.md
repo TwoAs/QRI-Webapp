@@ -8,7 +8,7 @@ We'll be writing all of our documentation using markdown. Documentation for both
 
 Here is a list of items that need to be documented:
 
-- [ ] Project Timeline
+- [x] Project Timeline
   > timeline should be its own file so we can refer to it when making Github projects
 - [ ] QRI-Back
   - [ ] database schema
