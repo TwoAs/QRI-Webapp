@@ -31,7 +31,7 @@
 - **address**: Optional[str] - the address of the supplier if one exists
 - **phone**: Optional[str] - the phone number of the supplier
 - **URL**: Optional[str] - supplier's website
-- **items**: List[Item] - list of items that he supplier offers
+- **inventory**: List[Item] - list of items that he supplier offers
 
 ### Order
 
@@ -41,3 +41,65 @@
 - **orderAmount**: int - amount to order
 - **items**: List[Item] - list of items to order
 - **suppliers** List[Supplier] - list of suppliers to order from
+
+## Database Handlers
+
+### Base Model
+
+- **new()**:
+- **delete()**:
+- **getID()**:
+- **getName()**:
+- **setName()**:
+
+### Store
+
+- **getAddress()**:
+- **setAddress()**:
+- **getInventory()**:
+- **addItemInventory()**:
+- **removeItemInventory()**:
+
+### Item
+
+- **addItem(string name, string brand, string locationStore, string locationSupplier, int[] amount)**: 
+- **removeItem()**: 
+- **getBrand**:
+- **setBrand**:
+- **getLocationStore**:
+- **setLocationStore**:
+- **getLocationSupplier**:
+- **setLocationSupplier**:
+- **getAmount**:
+- **setAmount**:
+
+### Brand
+
+- **getListSuppliers()**:
+- **addListSupplier()**:
+- **removeListSupplier()**:
+
+### Supplier
+
+- **getAddress()**:
+- **setAddress()**:
+- **getPhone()**:
+- **setPhone()**:
+- **getURL()**:
+- **setURL()**:
+- **getInventory()**:
+- **setInventory()**:
+- **addItemInventory()**:
+- **removeItemInventory()**:
+
+### Order
+
+- **getItemList()**:
+- **addItemList()**:
+- **removeItemList()**:
+- **getSupplierList()**:
+- **addSupplierList()**:
+- **removeSupplierList()**:
+- **getLastOrder()**:
+- **getOrderAmount**:
+- **setOrderAmount**:

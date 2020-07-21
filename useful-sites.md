@@ -45,7 +45,7 @@ Below are the tools we'll be using for developing the frontend.
 JS/JSX Framework for developing web components
 
 - [Reference](https://reactjs.org/docs/react-api.html)
-- [Developer Tools for Firfox](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/)
+- [Developer Tools for Firefox](https://addons.mozilla.org/en-US/firefox/addon/react-devtools/)
 - [Getting Started Practical](https://www.taniarascia.com/getting-started-with-react/)
 - [Getting started Conceptual](https://5d4b5feba32acd0008d0df98--reactjs.netlify.app/docs/hello-world.html)
 - [Github Page](https://github.com/facebook/react/blob/master/CHANGELOG.md#16131-march-19-2020)
