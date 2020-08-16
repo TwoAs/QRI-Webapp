@@ -12,7 +12,7 @@ Here is a list of items that need to be documented:
   > timeline should be its own file so we can refer to it when making Github projects
 - [ ] QRI-Back
   - [x] database schema
-  - [ ] handlers
+  - [x] handlers
   - [ ] router
 - [ ] QRI-Front
   - [ ] CSS framework
